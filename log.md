@@ -36,3 +36,23 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 
 **Link(s) to work**
 1. [Go Raft Implementation](https://github.com/r2p2/r2aft)
+
+### Day 2: 2017-08-27, Sunday
+
+**Today's Progress**:
+1. Continued the go raft implementation by adding a tcp layer enabling it to communicate with other nodes. (not pushed yet)
+2. I've also created a new project which already contains a readme to outline its purpose and some dummy source files that it won't look so empty.
+
+**Thoughts**:
+1. Adding the tcp layer seems to increase the complexity of my go code more than it should. It seems to be *best practice* to handle every connection synchronously in their own go routine. That adds management complexity for each go routine and a buch of channels for communication between them. Each routine has to handle timeouts, received and sent messages and the event that the application or node is closed. Don't know how I should achieve that.
+
+    I might switch to a message bus approach where the whole application just reads and write to one connection. The dispatching should become much easier.
+
+2. While bicron is a stupid name, I like the project idea. After the c++ implementation is complete, I've plans to port it to go and rust.
+
+**Link(s) to work**
+1. [Go Raft Implementation](https://github.com/r2p2/r2aft)
+2. [Bicron](https://github.com/r2p2/bicron)
+
+
+
