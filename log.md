@@ -54,5 +54,12 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 1. [Go Raft Implementation](https://github.com/r2p2/r2aft)
 2. [Bicron](https://github.com/r2p2/bicron)
 
+### Day 3: 2017-08-28, Monday
+
+**Today's Progress**: All my energy went into improving the TimePoint class within the bicron project to handle missing date/time data.
+
+**Thoughts**: I find it funny how I went from various class designs (mostly relying on inheritance) to hold my date and time units. Still ended up with a template version. We'll see how long the naive valid checks hold up.
+
+**Link(s) to work** [Bicron](https://github.com/r2p2/bicron)
 
 
