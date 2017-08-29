@@ -63,3 +63,12 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 **Link(s) to work** [Bicron](https://github.com/r2p2/bicron)
 
 
+### Day 4: 2017-08-29, Tuesday
+
+**Today's Progress**: Not much today. Implemented the matcher function to check if a rule matches a given time point.
+
+**Thoughts**: Go home earlier.
+
+**Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
+
+
