@@ -79,3 +79,11 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 **Thoughts**: My tests are failing and I don't know why yet.
 
 **Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
+
+### Day 6: 2017-08-31, Thursday
+
+**Today's Progress**: Fixed the issue when matching rules against time points.
+
+**Thoughts**: I think I'll get it done this weekend.
+
+**Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
