@@ -88,7 +88,7 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 
 **Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
 
-### Day 6: 2017-09-01, Friday
+### Day 7: 2017-09-01, Friday
 
 **Today's Progress**: Moved all the bicron classes into their own namespaces so that they can be used as library more easily. I've also started with the integration of a json library. But thats not ready yet.
 
