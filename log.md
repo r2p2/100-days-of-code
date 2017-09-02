@@ -95,3 +95,13 @@ Which, for whatever reason, means that there is an asterisk missing. Bad: `remot
 **Thoughts**: It is harder to keep this file up to date than to write code for one hour.
 
 **Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
+
+### Day 8: 2017-09-02, Saturday
+
+**Today's Progress**: Bicron got its main function and is executable now. It reads a json configuration passed as argument and prints the current state based on configured rules and the local time.
+
+Also started working on a mandelbrot generator in rust.
+
+**Thoughts**: My third attempt of learning rust started today. I seem to be unable to read the docs properly or it is rely just too hard to store an ImageBuffer from the image crate without writing 100 chars of template foo.
+
+**Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
