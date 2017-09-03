@@ -113,5 +113,5 @@ Also started working on a mandelbrot generator in rust.
 **Thoughts**: After so many yeas of development experience it seems that I expect to master every new language or library within a day or two. Truth is that rushing through the easy parts straight to high level libraries makes it just harder to stay motivated when learning. I should calm down and take babysteps again. Rust ist f* hard. 
 
 **Link(s) to work**:
-1 [Collection of problems I encounter with Rust](https://github.com/r2p2/whats-hard-about-rust)
-2 [Mandelbrot generator written in Rust](https://github.com/r2p2/rust-mandelbrot)
+1. [Collection of problems I encounter with Rust](https://github.com/r2p2/whats-hard-about-rust)
+2. [Mandelbrot generator written in Rust](https://github.com/r2p2/rust-mandelbrot)
