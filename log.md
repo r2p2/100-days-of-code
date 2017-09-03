@@ -105,3 +105,13 @@ Also started working on a mandelbrot generator in rust.
 **Thoughts**: My third attempt of learning rust started today. I seem to be unable to read the docs properly or it is rely just too hard to store an ImageBuffer from the image crate without writing 100 chars of template foo.
 
 **Link(s) to work**: [Bicron](https://github.com/r2p2/bicron)
+
+### Day 9: 2017-09-03, Sunday
+
+**Today's Progress**: Mostly learning rust today.
+
+**Thoughts**: After so many yeas of development experience it seems that I expect to master every new language or library within a day or two. Truth is that rushing through the easy parts straight to high level libraries makes it just harder to stay motivated when learning. I should calm down and take babysteps again. Rust ist f* hard. 
+
+**Link(s) to work**:
+1 [Collection of problems I encounter with Rust](https://github.com/r2p2/whats-hard-about-rust)
+2 [Mandelbrot generator written in Rust](https://github.com/r2p2/rust-mandelbrot)
