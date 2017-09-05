@@ -123,3 +123,10 @@ Also started working on a mandelbrot generator in rust.
 **Thoughts**: On the one hand, other languages seem to make it easier to add concurrency later. But rust makes it harder to add multithreading when the interfaces weren't designed with that intention from the start. At least, that is my impression. Sure it makes it more secure, when you cannot just hack somethin into existing code.
 
 **Link(s) to work**: [Mandelbrot generator written in Rust](https://github.com/r2p2/rust-mandelbrot)
+
+### Day 10: 2017-09-05, Tuesday
+
+**Today's Progress**: Implementing a elementary cellular automaton using rust piston as ui. Nothing productive, just testing.
+
+**Thoughts**: You still do the heavy stuff. Stop it already!!!
+
