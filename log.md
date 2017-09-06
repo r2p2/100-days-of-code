@@ -124,9 +124,16 @@ Also started working on a mandelbrot generator in rust.
 
 **Link(s) to work**: [Mandelbrot generator written in Rust](https://github.com/r2p2/rust-mandelbrot)
 
-### Day 10: 2017-09-05, Tuesday
+### Day 11: 2017-09-05, Tuesday
 
 **Today's Progress**: Implementing a elementary cellular automaton using rust piston as ui. Nothing productive, just testing.
 
 **Thoughts**: You still do the heavy stuff. Stop it already!!!
+
+### Day 12: 2017-09-06, Wednesday
+
+**Today's Progress**: Improved performance with the ECA and started to introduce configurable cell sizes. Still not public yet.
+
+**Thoughts**: It starts to make fun fiddeling around with rust. Found it impressive than accessing by index operator is slower than iterating. But I did not check if there was a difference between debug and release...
+
 
