@@ -136,4 +136,10 @@ Also started working on a mandelbrot generator in rust.
 
 **Thoughts**: It starts to make fun fiddeling around with rust. Found it impressive than accessing by index operator is slower than iterating. But I did not check if there was a difference between debug and release...
 
+### Day 12: 2017-09-06, Wednesday
+
+**Today's Progress**: Tried to fix the flickering bug. Not successful.
+
+**Thoughts**: Too many other things in my mind.
+
 
