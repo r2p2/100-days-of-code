@@ -142,4 +142,12 @@ Also started working on a mandelbrot generator in rust.
 
 **Thoughts**: Too many other things in my mind.
 
+### Day 14: 2017-09-08, Friday
+
+**Today's Progress**: Fixed the flicker issue and renamed the project appropriately.
+
+**Thoughts**: Everything makes much more sense now but implementing own iterators and enumerators is still way to heavy. 
+
+**Link(s) to work**: [Ruby ECA](https://github.com/r2p2/rusty-eca)
+
 
