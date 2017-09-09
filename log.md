@@ -148,6 +148,14 @@ Also started working on a mandelbrot generator in rust.
 
 **Thoughts**: Everything makes much more sense now but implementing own iterators and enumerators is still way to heavy. 
 
-**Link(s) to work**: [Ruby ECA](https://github.com/r2p2/rusty-eca)
+**Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
 
+
+### Day 15: 2017-09-09, Saturday
+
+**Today's Progress**: Extracted the cellular automata part into its own module.
+
+**Thoughts**: Learned that modules normally reside in only one file. That raises the question if namespaces from C++ can be compaired with modules. Borrowchecker is still a bitch. 
+
+**Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
 
