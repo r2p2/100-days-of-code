@@ -150,7 +150,6 @@ Also started working on a mandelbrot generator in rust.
 
 **Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
 
-
 ### Day 15: 2017-09-09, Saturday
 
 **Today's Progress**: Extracted the cellular automata part into its own module.
@@ -159,3 +158,10 @@ Also started working on a mandelbrot generator in rust.
 
 **Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
 
+### Day 16: 2017-09-10, Sunday
+
+**Today's Progress**: Thought it would be faster to render into an image and draw the image as a whole via opengl onto the screen instead of calling the rectangle method over and over. Turns out that it runs 500 times slower now.
+
+**Thoughts**: Sometimes you just have to throw away your work.
+
+**Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
