@@ -165,3 +165,11 @@ Also started working on a mandelbrot generator in rust.
 **Thoughts**: Sometimes you just have to throw away your work.
 
 **Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
+
+### Day 17: 2017-09-11, Monday
+
+**Today's Progress**: Managed to get keyboard events to change the CA rule at runtime.
+
+**Thoughts**: 404 Motivation not found
+
+**Link(s) to work**: [Rust ECA](https://github.com/r2p2/rusty-eca)
